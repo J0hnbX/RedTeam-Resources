@@ -230,6 +230,8 @@
 - Splunk Security Essential Docs - https://docs.splunksecurityessentials.com/content-detail/ (Various IOCs)
 - Cobalt Strike Defense - https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence
 - Dorothy - https://github.com/elastic/dorothy (Okta SSO Monitoring and Detection)
+- ThreatMapper - https://github.com/deepfence/ThreatMapper (Scan for vulnerable components in production)
+- SecretScanner - https://github.com/deepfence/SecretScanner (Scan for unprotected secrets (tokens, key, etc) on filesystem and containers)
 
 ### Windows Security (What will BlueTeam look for?)
 
